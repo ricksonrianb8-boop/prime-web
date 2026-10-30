@@ -1,61 +1,86 @@
-# ⚡ PRIME WEB | Developer Portfolio
+# ⚡ PRIME WEB
 
-> Um portfólio desenvolvido para apresentar projetos, habilidades e conhecimentos em desenvolvimento web.
+### 💻 Portfólio de Desenvolvimento Web
 
+**Transformando conhecimento em projetos.**
+
+Bem-vindo ao meu portfólio! Este projeto foi desenvolvido para apresentar meu trabalho, meus conhecimentos em programação e minha evolução na área de tecnologia.
+
+---
+
+## 🌐 Navegação rápida
+
+| Recurso | Acesso |
+|---|---|
+| 🚀 **Projeto completo** | [Ver arquivos do projeto](https://github.com/ricksonrianb8-boop/prime-web/tree/main/portfolio-rikcson) |
+| 📄 **HTML** | [Abrir index.html](https://github.com/ricksonrianb8-boop/prime-web/blob/main/portfolio-rikcson/index.html) |
+| 🎨 **CSS** | [Abrir style.css](https://github.com/ricksonrianb8-boop/prime-web/blob/main/portfolio-rikcson/style.css) |
+| ⚙️ **JavaScript** | [Abrir script.js](https://github.com/ricksonrianb8-boop/prime-web/blob/main/portfolio-rikcson/script.js) |
+| 📑 **Currículo** | [Visualizar ou baixar PDF](https://github.com/ricksonrianb8-boop/prime-web/blob/main/portfolio-rikcson/assets/curriculo.pdf) |
+
+---
 
 ## 📌 Sobre o projeto
 
-O **Prime Web** é um projeto de portfólio criado para apresentar minha trajetória no desenvolvimento web, meus conhecimentos técnicos e meus projetos.
+O **Prime Web** é um projeto de portfólio pessoal criado para demonstrar conhecimentos em desenvolvimento front-end e apresentar minha trajetória como estudante de programação.
 
-A proposta é construir uma presença profissional na área de tecnologia, aplicando conceitos de estruturação, estilização e interatividade para desenvolver experiências digitais.
+A proposta é unir organização, identidade visual e funcionalidade em uma experiência digital, utilizando tecnologias fundamentais da web.
 
 ## 🛠️ Tecnologias utilizadas
 
-| Tecnologia | Finalidade |
-|:--|:--|
-| HTML5 | Estrutura e organização do conteúdo |
-| CSS3 | Estilização, identidade visual e layout |
-| JavaScript | Funcionalidades e interatividade |
-| Git | Controle de versão |
-| GitHub | Hospedagem do código-fonte |
+| Tecnologia | Aplicação |
+|---|---|
+| 🟠 HTML5 | Estruturação das páginas |
+| 🔵 CSS3 | Estilização, cores e layout |
+| 🟡 JavaScript | Interatividade e funcionalidades |
+| ⚫ Git | Controle de versão |
+| 🐙 GitHub | Hospedagem e gerenciamento do código |
 
-## 🗂️ Acesse os arquivos
+## 📂 Estrutura do projeto
 
-Explore cada parte do projeto diretamente pelo GitHub:
+```text
+portfolio-rikcson/
+├── assets/
+│   └── curriculo.pdf
+├── index.html
+├── README.md
+├── script.js
+└── style.css
+```
 
-- **[📄 HTML — index.html)** — estrutura principal do site.
-- **[🎨 CSS — style.css)** — estilos, cores, tipografia e layout.
-- **[ JavaScript — script.js)** — código JavaScript e funcionalidades.
-- **[📑Currículo — curriculo.pdf)** — acesso ao currículo em PDF.
-- **[📁 Pasta de arquivos)** — documentação do projeto.
+## 🔍 Explore o código
 
-## 🚀 Como visualizar o projeto
+Quer entender como o projeto foi desenvolvido?
 
-1. Acesse o repositório no GitHub.
-2. Entre na pasta `portfolio-rikcson`.
-3. Abra o arquivo `index.html` para visualizar o código-fonte.
+- **HTML:** explore a estrutura e os elementos da página.
+- **CSS:** conheça os estilos responsáveis pela aparência do site.
+- **JavaScript:** confira o código responsável pelas funcionalidades interativas.
+- **Assets:** acesse os arquivos complementares do projeto.
 
-Para visualizar o site funcionando no navegador, acesse a versão publicada pelo GitHub Pages quando ela estiver configurada.
+Utilize os links da seção **Navegação rápida** para abrir cada arquivo diretamente no GitHub.
 
 ## 🎯 Objetivos
 
-- Praticar desenvolvimento web.
-- Aplicar conhecimentos de HTML, CSS e JavaScript.
-- Desenvolver projetos para o portfólio.
-- Evoluir continuamente na área de programação.
+- Desenvolver habilidades em programação.
+- Praticar HTML, CSS e JavaScript.
+- Criar projetos para um portfólio profissional.
+- Aprimorar conhecimentos em desenvolvimento web.
+- Compartilhar meu aprendizado e minha evolução na tecnologia.
 
 ## 👨‍💻 Desenvolvedor
 
 **Rickson Rian**
 
-Estudante de programação, buscando aprender, desenvolver projetos e evoluir continuamente na área de tecnologia.
+Estudante de programação, dedicado ao aprendizado contínuo, à criação de projetos e ao desenvolvimento de novas habilidades na área de tecnologia.
 
 ---
 
 <div align="center">
 
-**PRIME WEB**
+### ⚡ PRIME WEB
 
-*Transformando aprendizado em projetos.*
+**Aprender. Desenvolver. Evoluir.**
 
+*Um projeto de cada vez.*
 
+</div>
