@@ -23,11 +23,11 @@ A proposta é construir uma presença profissional na área de tecnologia, aplic
 
 Explore cada parte do projeto diretamente pelo GitHub:
 
-- **[📄 index.html](./index.html)** — estrutura principal do site.
-- **[🎨 style.css](./style.css)** — estilos, cores, tipografia e layout.
-- **[⚙️ script.js](./script.js)** — código JavaScript e funcionalidades.
-- **[📑 curriculo.pdf](./assets/curriculo.pdf)** — acesso ao currículo em PDF.
-- **[📘 README.md](./README.md)** — documentação do projeto.
+- **[📄 HTML — index.html)** — estrutura principal do site.
+- **[🎨 CSS — style.css)** — estilos, cores, tipografia e layout.
+- **[ JavaScript — script.js)** — código JavaScript e funcionalidades.
+- **[📑Currículo — curriculo.pdf)** — acesso ao currículo em PDF.
+- **[📁 Pasta de arquivos)** — documentação do projeto.
 
 ## 🚀 Como visualizar o projeto
 
