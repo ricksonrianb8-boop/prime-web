@@ -2,17 +2,6 @@
 
 > Um portfólio desenvolvido para apresentar projetos, habilidades e conhecimentos em desenvolvimento web.
 
-<div align="center">
-
-### 🌐 PORTFÓLIO DE DESENVOLVIMENTO
-
-**Tecnologia · Criatividade · Evolução**
-
-[📂 Ver código-fonte](./index.html) · [🎨 Estilos CSS](./style.css) · [⚙️ JavaScript](./script.js) · [📄 Currículo](./assets/curriculo.pdf)
-
-</div>
-
----
 
 ## 📌 Sobre o projeto
 
@@ -69,4 +58,4 @@ Estudante de programação, buscando aprender, desenvolver projetos e evoluir co
 
 *Transformando aprendizado em projetos.*
 
-</div>
+
